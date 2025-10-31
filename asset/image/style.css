@@ -5,6 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    
+}
 header{
     background-color: #F3FCF7;
     height: 600px;
@@ -120,4 +123,13 @@ button a{
 .Product img{
      width: 30px;
      border-radius: 50%;
+}
+
+.Brand-logo{
+   max-width: 1140px;
+   margin: 0 auto;
+   display: flex;
+   padding-top: 40px;
+   gap: 60px;
+   opacity: 50%;
 }
